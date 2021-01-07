@@ -1,0 +1,18 @@
+{
+  "name": "tutt.xyz",
+  "version": "1.0.0",
+  "homepage": "http://tutt.xyz",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "bin": {
+    "short": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atuttle/tutt.xyz.git"
+  },
+  "dependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}
